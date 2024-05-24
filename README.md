@@ -3,9 +3,8 @@
 I'm a Junior QA Engineer passionate about ensuring software quality and performance. 
 
 ## 🚀 Skills:
-- **Testing Tools**: Selenium, JMeter
+- **Testing Tools**: Selenium, JMeter, Postman
 - **Languages**: Python
-- **Databases**: SQL
 
 
 ## 🌱 Current Learning Endeavors:
